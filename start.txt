@@ -1,3 +1,5 @@
 Just Started
 
 vim testing
+
+Testing from cmd
